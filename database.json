@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "mealType": "breakfast"
+    },
+    {
+      "id": 1,
+      "mealType": "lunch"
+    },
+    {
+      "id": 1,
+      "mealType": "dinner"
+    },
+    {
+      "id": 1,
+      "mealType": "dessert"
+    }
+  ],
+  "Recipes": [
+    {
+      "id": 1,
+      "title": "JavaScript Pizza",
+      "picture": "js_pizza.jpg",
+      "description": "A delicious pizza with a crispy JavaScript crust.",
+      "ingredients": "1 cup of JavaScript flour, 1/2 cup of HTML tomato sauce, 1/4 cup of CSS cheese, 1 teaspoon of React pepperoni",
+      "instructions": "1. Preheat the browser to 350°F. 2. Combine JavaScript flour, HTML tomato sauce, and CSS cheese on a DOM element. 3. Sprinkle React pepperoni on top. 4. Bake for 15 minutes. 5. Enjoy your JavaScript Pizza!",
+      "categoryId": "coding_cuisine",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Python Pasta",
+      "picture": "python_pasta.jpg",
+      "description": "A plate of Python spaghetti served with Django meatballs.",
+      "ingredients": "2 cups of Python spaghetti, 1/2 cup of Django meatballs, 1/4 cup of Python sauce, 1 tablespoon of Python parsley",
+      "instructions": "1. Boil Python spaghetti until al dente. 2. Heat Python sauce and Django meatballs in a Pythonic pan. 3. Toss cooked Python spaghetti in the sauce. 4. Garnish with Python parsley. 5. Enjoy your Python Pasta!",
+      "categoryId": "coding_cuisine",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "HTML5 Salad",
+      "picture": "html5_salad.jpg",
+      "description": "A fresh salad with HTML5 lettuce, CSS croutons, and JavaScript dressing.",
+      "ingredients": "2 cups of HTML5 lettuce, 1/4 cup of CSS croutons, 2 tablespoons of JavaScript dressing, 1/4 cup of Bootstrap cucumbers",
+      "instructions": "1. Toss HTML5 lettuce, CSS croutons, and Bootstrap cucumbers in a bowl. 2. Drizzle JavaScript dressing over the salad. 3. Serve fresh as a side dish or appetizer. 4. Enjoy your HTML5 Salad!",
+      "categoryId": "coding_cuisine",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Ruby on Rails Ramen",
+      "picture": "ror_ramen.jpg",
+      "description": "A hearty bowl of Ruby on Rails ramen with ActiveRecord broth.",
+      "ingredients": "2 cups of Ruby on Rails ramen noodles, 1/2 cup of ActiveRecord broth, 1/4 cup of Ruby carrots, 1 tablespoon of Ruby scallions",
+      "instructions": "1. Cook Ruby on Rails ramen noodles until tender. 2. Simmer ActiveRecord broth and add Ruby carrots. 3. Pour the broth over cooked noodles. 4. Garnish with Ruby scallions. 5. Enjoy your Ruby on Rails Ramen!",
+      "categoryId": "coding_cuisine",
+      "userId": 4
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "johndoe",
+      "password": "securepass123",
+      "email": "johndoe@example.com",
+      "recipeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "password": "password456",
+      "email": "janesmith@example.com",
+      "recipeId": 2
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "username": "bobjohnson",
+      "password": "strongpassword789",
+      "email": "bob@example.com",
+      "recipeId": 3
+    },
+    {
+      "id": 4,
+      "name": "Alice Wilson",
+      "username": "alicewilson",
+      "password": "mypassword123",
+      "email": "alice@example.com",
+      "recipeId": 4
+    }
+  ]
+}
