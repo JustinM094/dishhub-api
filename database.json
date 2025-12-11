@@ -99,12 +99,12 @@
       "id": 19
     },
     {
-      "title": "Ruby on Rails Ramen",
+      "title": "Ruby on Rails Ramen Bowl",
       "picture": "https://www.foodandwine.com/thmb/0AXGLeY6dYnY8sEXFqxBa8opDrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tonkotsu-Ramen-FT-BLOG1122-8fe6c12d609a4fd4ab246bea3aae140e.jpg",
       "description": "A hearty bowl of Ruby on Rails ramen with ActiveRecord broth.",
       "ingredients": "2 cups of Ruby on Rails ramen noodles 1/2 cup of ActiveRecord broth 1/4 cup of Ruby carrots 1 tablespoon of Ruby scallions",
       "instructions": "Cook Ruby on Rails ramen noodles until tender. Simmer ActiveRecord broth and add Ruby carrots. Pour the broth over cooked noodles. Garnish with Ruby scallions. Enjoy your Ruby on Rails Ramen!",
-      "categoryId": 2,
+      "categoryId": "2",
       "userId": 7,
       "id": 20
     }
